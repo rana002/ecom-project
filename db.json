@@ -1,0 +1,94 @@
+{
+  "seller": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "name": "Nikhil Rana",
+      "password": "abc@123",
+      "email": "addyabhi02929@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Nikhil Rana",
+      "password": "abc@123",
+      "email": "mp1445747@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Nikhil Rana",
+      "password": "abc@123",
+      "email": "addyabhi02929@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "bX",
+      "password": "abc@123",
+      "email": "mp1445747@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "bX",
+      "password": "abc@123",
+      "email": "mp1445747@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "bX",
+      "password": "abc@123",
+      "email": "mp1445747@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "bX",
+      "password": "abc@123",
+      "email": "mp1445747@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "bX",
+      "password": "abc@123",
+      "email": "mp1445747@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "bX",
+      "password": "abc@123",
+      "email": "mp1445747@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "bX",
+      "password": "abc@123",
+      "email": "mp1445747@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "bX",
+      "password": "abc@123",
+      "email": "mp1445747@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "bX",
+      "password": "abc@123",
+      "email": "mp1445747@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "bX",
+      "password": "abc@123",
+      "email": "mp1445747@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "Nikhil Rana",
+      "password": "1234",
+      "email": "sdfdsfsdf@gmial.com",
+      "id": 16
+    }
+  ]
+}
